@@ -12,16 +12,20 @@
 - 💡 **实用示例** - 包含实际应用场景的演示
 
 ## 🗂️ 项目结构
+
+```text
 RLHF/
-├── ppo/ # PPO (Proximal Policy Optimization)
-│ ├── actor.ipynb # Actor模型实现
-│ └── critic.ipynb # Critic模型实现
-├── dpo/ # DPO (Direct Preference Optimization)
-│ ├── train.ipynb # 训练流程
-│ └── eval.ipynb # 评估脚本
-└── grpo/ # GRPO (Generalized Reward Policy Optimization)
-├── model.ipynb # 模型定义
-└── train.ipynb # 训练实现
+├── ppo/               # PPO (Proximal Policy Optimization)
+│   ├── actor.ipynb    # Actor模型实现
+│   └── critic.ipynb   # Critic模型实现
+├── dpo/               # DPO (Direct Preference Optimization)
+│   ├── train.ipynb    # 训练流程
+│   └── eval.ipynb     # 评估脚本
+└── grpo/              # GRPO (Generalized Reward Policy Optimization)
+    ├── model.ipynb    # 模型定义
+    └── train.ipynb    # 训练实现
+```
+```
 
 
 ## 🚀 快速开始
@@ -97,11 +101,11 @@ jupyter notebook ppo/actor.ipynb
 
 ```bibtex
 @misc{rlhf-no-magic,
-  author = {Your Name},
+  author = {2001wjh},
   title = {RLHF: No Magic, Just Code},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/your-username/rlhf-no-magic}
+  url = {https://github.com/2001wjh/RLHF-No-Magic-Just-Code}
 }
 ```
 
@@ -111,5 +115,5 @@ jupyter notebook ppo/actor.ipynb
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/rlhf-no-magic&type=Date)](https://star-history.com/#your-username/rlhf-no-magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/rlhf-no-magic&type=Date)](https://star-history.com/2001wjh/rlhf-no-magic&Date)
 
