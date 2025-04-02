@@ -100,12 +100,12 @@ jupyter notebook ppo/actor.ipynb
 如果您在研究中使用了本项目，请引用：
 
 ```bibtex
-@misc{rlhf-no-magic,
+@misc{rlhf-no-magic-just-code,
   author = {2001wjh},
   title = {RLHF: No Magic, Just Code},
-  year = {2025},
+  year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/2001wjh/rlhf-no-magic}
+  url = {https://github.com/2001wjh/RLHF-No-Magic-Just-Code}
 }
 ```
 
@@ -115,5 +115,5 @@ jupyter notebook ppo/actor.ipynb
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/rlhf-no-magic&type=Date)](https://star-history.com/2001wjh/rlhf-no-magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/RLHF-No-Magic-Just-Code&type=Date)](https://star-history.com/#2001wjh/RLHF-No-Magic-Just-Code&Date)
 
