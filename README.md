@@ -14,16 +14,20 @@
 ## 🗂️ 项目结构
 
 ```text
-RLHF/
+RLHF-No-Magic-Just-Code/
+├── dpo/               # DPO (Direct Preference Optimization)
+│   ├── actor.ipynb    # Actor模型实现
+│   └── dpo.ipynb   # DPO模型训练
+│   └── test.ipynb   # 测试模型效果实现
+│   └── trl.ipynb   # 通过trl库实现
 ├── ppo/               # PPO (Proximal Policy Optimization)
 │   ├── actor.ipynb    # Actor模型实现
-│   └── critic.ipynb   # Critic模型实现
-├── dpo/               # DPO (Direct Preference Optimization)
-│   ├── train.ipynb    # 训练流程
-│   └── eval.ipynb     # 评估脚本
+│   └── critic.ipynb   # Critic模型训练
+│   └── ppo.ipynb   # PPO模型训练
+│   └── test.ipynb   # 测试模型效果实现
+│   └── trl.ipynb   # 通过trl库实现
 └── grpo/              # GRPO (Generalized Reward Policy Optimization)
-    ├── model.ipynb    # 模型定义
-    └── train.ipynb    # 训练实现
+
 ```
 
 
