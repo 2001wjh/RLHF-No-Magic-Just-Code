@@ -105,7 +105,7 @@ jupyter notebook ppo/actor.ipynb
   title = {RLHF: No Magic, Just Code},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/2001wjh/RLHF-No-Magic-Just-Code}
+  url = {https://github.com/2001wjh/rlhf-no-magic}
 }
 ```
 
@@ -115,5 +115,5 @@ jupyter notebook ppo/actor.ipynb
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/RLHF-No-Magic-Just-Code&type=Date)](https://star-history.com/2001wjh/RLHF-No-Magic-Just-Code&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/rlhf-no-magic&type=Date)](https://star-history.com/2001wjh/rlhf-no-magic&Date)
 
