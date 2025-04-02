@@ -92,6 +92,7 @@ jupyter notebook ppo/actor.ipynb
 
 - [PPO论文](https://arxiv.org/abs/1707.06347)
 - [DPO论文](https://arxiv.org/abs/2305.18290)
+- [GRPO论文]([https://arxiv.org/abs/2305.18290](https://arxiv.org/abs/2402.03300))
 - [RLHF综述](https://arxiv.org/abs/2309.00770)
 
 ## 📝 引用
