@@ -115,5 +115,5 @@ jupyter notebook ppo/actor.ipynb
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/rlhf-no-magic&type=Date)](https://star-history.com/2001wjh/rlhf-no-magic&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=2001wjh/RLHF-No-Magic-Just-Code&type=Date)](https://star-history.com/2001wjh/RLHF-No-Magic-Just-Code&Date)
 
